@@ -1,3 +1,5 @@
+# 学习nav2 plugin随手
+```
 FollowPath:
     plugin: "my_controller::MyController"
     debug_trajectory_details: True
@@ -29,3 +31,4 @@ bt_navigator:
       - ...
       - nav2_wait_action_bt_node
       - my_action_bt_node
+```
