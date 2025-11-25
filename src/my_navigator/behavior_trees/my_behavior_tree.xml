@@ -1,0 +1,12 @@
+<root main_tree_to_execute="MainTree">
+  <BehaviorTree ID="MainTree">
+    <Repeat num_cycles="3">
+      <Sequence name="MySequence">
+        <MyAction flag="true" server_name="my_behavior_action"/>
+        <Wait wait_duration="3"/>
+        <MyAction flag="true" server_name="my_behavior_action"/>
+        <Wait wait_duration="3"/>
+      </Sequence>
+    </Repeat>
+  </BehaviorTree>
+</root>

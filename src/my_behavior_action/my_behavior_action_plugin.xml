@@ -1,0 +1,7 @@
+<class_libraries>
+    <library path="my_behavior_action_plugin">
+        <class type="my_behavior_action::MyBehaviorAction" base_class_type="nav2_core::Behavior">
+            <description>my_behavior_action</description>
+        </class>
+    </library>
+</class_libraries>

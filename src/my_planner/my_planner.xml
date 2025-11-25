@@ -1,0 +1,7 @@
+<class_libraries>
+    <library path="my_planner">
+        <class type="my_planner::MyPlanner" base_class_type="nav2_core::GlobalPlanner">
+            <description>my_planner</description>
+        </class>
+    </library>
+</class_libraries>

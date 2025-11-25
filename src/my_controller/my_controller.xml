@@ -1,0 +1,7 @@
+<class_libraries>
+    <library path="my_controller">
+        <class type="my_controller::MyController" base_class_type="nav2_core::Controller">
+            <description>my_controller</description>
+        </class>
+    </library>
+</class_libraries>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<root>
+  <TreeNodesModel>
+    <Action ID="MyAction">
+      <input_port name="flag">start or stop</input_port>
+    </Action>
+
+  </TreeNodesModel>
+</root>

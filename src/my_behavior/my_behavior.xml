@@ -1,0 +1,7 @@
+<class_libraries>
+    <library path="my_behavior">
+        <class type="my_behavior::MyBehavior" base_class_type="nav2_core::Behavior">
+            <description>my_behavior</description>
+        </class>
+    </library>
+</class_libraries>
